@@ -1,0 +1,4 @@
+venv
+*.pptx
+*.csv
+.ipynb_checkpoints
